@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kollegs/static/css/main.64c3647a.css",
+    "main.js": "/kollegs/static/js/main.970a83fb.js",
+    "index.html": "/kollegs/index.html",
+    "main.64c3647a.css.map": "/kollegs/static/css/main.64c3647a.css.map",
+    "main.970a83fb.js.map": "/kollegs/static/js/main.970a83fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64c3647a.css",
+    "static/js/main.970a83fb.js"
+  ]
+}
